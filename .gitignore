@@ -24,3 +24,5 @@ local.properties
 proguard/
 # Log Files
 *.log
+
+publish/
